@@ -1,8 +1,6 @@
-# 👋 Hello, My name is Manita.
+# Manita · Data Science & AI/ML
 
-ITM & CS student into Data Science and AI/ML.
-
-## 🔎 You can find me on :
+## You can find me on :
 
 <a href="https://www.linkedin.com/in/manita-inn"><img src="https://img.shields.io/badge/Manita_Inn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:manitainn.0522@gmail.com"><img src="https://img.shields.io/badge/manitainn.0522@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
